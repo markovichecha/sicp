@@ -14,7 +14,7 @@
     ((= kind-of-coins 4) 25)
     ((= kind-of-coins 5) 50)))
 
-(r-cc 17 5)
+(r-cc 11 5)
 
 ; (r-cc 100 5)
 ; (+ (r-cc 100 4) (r-cc 50 5))
