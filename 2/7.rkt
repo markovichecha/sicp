@@ -1,5 +1,5 @@
 #lang racket
 
-(define (lower-bound interval) (car interval))
+(define (lb interval) (car interval))
 
-(define (upper-bound interval) (cdr interval))
+(define (ub interval) (cdr interval))
